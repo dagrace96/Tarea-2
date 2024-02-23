@@ -1,0 +1,44 @@
+h1 {font-family: "IBM Plex Serif", serif;
+    font-weight: 600;
+    font-style: normal;color: rgb(40, 110, 133);}
+h3 {font-family: "IBM Plex Serif", serif;
+    font-weight: 500;
+    font-style: normal;
+color: tomato;}
+p {font-family: "M PLUS 1p", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+font-size: small;}
+.cita {font-family: "IBM Plex Serif", serif;
+    font-weight: 100;
+    font-style: italic;
+text-align: center;
+color: darkgray;}
+h4 {font-family: "M PLUS 1p", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+color: darkgrey;}
+.cuadro {border:solid; width: 300px; padding: 20px; margin: 20px;
+    color: tomato;
+text-align: center;
+font-size: medium;
+margin-left: auto;
+margin-right: auto;}
+.piedefoto {color: tomato;
+font-weight: 100;
+font-size: x-small;
+text-align: center;}
+h5 {text-align: center;}
+.big{display: block;margin-left: auto;margin-right: auto;}
+.mini{border-radius: 125px;
+object-fit: cover;}
+#container{display: flex;
+justify-content: center;
+align-items: center;
+min-height: 400px;
+margin-left: auto;
+margin-right: auto;}
+#container div {
+    height: 250px;
+    width: 800px;
+    }
